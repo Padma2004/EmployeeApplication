@@ -1,0 +1,11 @@
+﻿.padding-class {
+    padding-bottom: 10px;
+}
+
+#btnSave{
+    margin-top: 10px;
+}
+
+div.empName:hover{
+    background-color: grey;
+}
